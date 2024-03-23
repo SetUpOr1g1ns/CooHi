@@ -8,7 +8,7 @@
 
 ## Explanation:
 
-The basics on how it's operated is that it <u>**takes the elements**</u>  of a <u>**website**</u> and if they have somethings that are related to common Cookie Notices(Like **"<u>accept all</u>"** buttons, **"<u>cookies</u>"** ids, and <u>**more**</u>), <u>**it hides what contains them**</u>. You can <u>**add exceptions**</u>, and <u>**remove them by writing**</u> in the popup the <u>**url**</u>. The urls will be displayed in the popup of the extension and they will be <u>**sorted by length**</u> using the <u>**Bubble Sort**</u> algorithm. By <u>**hiding cookies notices**</u> that you can <u>**avoid being disturbed**</u> by them, and <u>**protect your privacy**</u> from the abusive cookies of websites!
+The basics on how it's operated is that it <u>**takes the elements**</u>  of a <u>**website**</u> and if they have somethings that are related to common Cookie Notices (Like **"<u>accept all</u>"** buttons, **"<u>cookies</u>"** ids, and <u>**more**</u>), <u>**it hides what contains them**</u>. You can <u>**add exceptions**</u>, and <u>**remove them by writing**</u> in the popup the <u>**url**</u>. The urls will be displayed in the popup of the extension and they will be <u>**sorted by length**</u> using the <u>**Bubble Sort**</u> algorithm. By <u>**hiding cookies notices**</u> that you can <u>**avoid being disturbed**</u> by them, and <u>**protect your privacy**</u> from the abusive cookies of websites!
 
 ## Notes:
 
