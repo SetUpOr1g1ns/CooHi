@@ -1,6 +1,6 @@
 # <u>**CooHi**</u>
 
-#### Video Demo: [Watch on YouTube](https://www.youtube.com/watch?v=DSPohr1AxAA)
+#### Made originally for my CS50 final project
 
 ## Description:
 
