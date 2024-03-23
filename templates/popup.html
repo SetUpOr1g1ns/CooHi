@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>CooHi</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <div class="TD">
+            <h1 style="margin-bottom: 30px;"><strong><ins>CooHi</ins></strong></h1>
+            <h5 style="margin-top: -20px;">Restart the page after any changes</h5>
+        </div>
+
+        <div class="Container">
+            <h4 style="margin-left: 23px; color: white;"><pre>Add an Exception: </pre></h4>
+            <div class="container mt-5">
+                <div style="margin-top: -40px;" class="input-group">
+                    <input type="text" class="form-control" id="exceptionInput" placeholder="https://example.com/users" aria-label="URL" aria-describedby="basic-addon">
+                    <div class="input-group-append">
+                        <button id="addException" class="btn btn-outline-secondary" type="button">Add</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-top: 20px;" class="Container">
+            <h2 style="color: white;">Exceptions:</h2>
+            <h6 style="color: white;">(Only 3 will be shown)</h6>
+            <ul id="exceptionList"></ul>
+        </div>
+    </body>
+    <link rel="stylesheet" type="text/css" href="/static/styles.css" />
+    <script src="/static/popup.js"></script>
+</html>
